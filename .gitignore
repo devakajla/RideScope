@@ -1,0 +1,19 @@
+# Data
+data/raw/
+data/cleaned_trips.csv
+
+# Models
+backend/trained_models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+frontend/build/
+
+# OS
+.DS_Store
